@@ -1,2 +1,3 @@
-[submodule "/wuxt"]
-	url = https://github.com/northosts/wuxt.git
+[submodule "/Review-Site_WUXT_Project-Folder_v1/wuxtt"]
+	path= /Review-Site_WUXT_Project-Folder_v1/wuxt
+	url = git://github.com/northosts/wuxt.git
