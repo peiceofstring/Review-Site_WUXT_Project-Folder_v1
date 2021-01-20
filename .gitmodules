@@ -1,2 +1,2 @@
-[submodule "wuxt"]
+[submodule "/wuxt"]
 	url = https://github.com/northosts/wuxt.git
